@@ -1,5 +1,5 @@
 {
-  "name": "joker",
+  "name": "genie-joker",
   "version": "0.1.0",
   "description": "example",
   "type": "module",
@@ -28,6 +28,8 @@
     "prettier": "^2.8.7"
   },
   "dependencies": {
+    "example-joker": "^0.0.4",
+    "genie-joker": "^0.1.0",
     "give-me-a-joke": "^0.5.1"
   }
 }
