@@ -1,0 +1,35 @@
+{
+  "name": "genie-joker",
+  "version": "0.1.0",
+  "description": "example",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeniePrinie/joker.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "Genie Prinyanut <john@smith.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeniePrinie/joker/issues"
+  },
+  "homepage": "https://github.com/GeniePrinie/joker#readme",
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  },
+  "dependencies": {
+    "example-joker": "^0.0.4",
+    "genie-joker": "^0.1.0",
+    "give-me-a-joke": "^0.5.1"
+  }
+}
